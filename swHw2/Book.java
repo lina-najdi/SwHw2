@@ -2,7 +2,7 @@ public class Book {
     String title;
     String author;
     String isbn;
-    int copies;
+    int copies; 
 
     public Book(String title, String author, String isbn, int copies) {
         this.title = title;
